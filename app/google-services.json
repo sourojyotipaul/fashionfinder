@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "266808922737",
+    "firebase_url": "https://burberry-6c1c1.firebaseio.com",
+    "project_id": "burberry-6c1c1",
+    "storage_bucket": "burberry-6c1c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266808922737:android:a49915e68eaed8cc",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.classification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266808922737-d3q8ejc7e1jp8jljhv0dsqf9ou39gsa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tensorflow.lite.examples.classification",
+            "certificate_hash": "8a6420d1d316ad8d36d7ca53a8773d74c13b9382"
+          }
+        },
+        {
+          "client_id": "266808922737-nr335plvum9kmi4j5kfdjucnfkl40c9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMbVgE08CmXAyqcrZwqzbyWwne9fd85R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266808922737-nr335plvum9kmi4j5kfdjucnfkl40c9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

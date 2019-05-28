@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_store"
+        android:icon="@drawable/ic_store_black_24dp"
+        android:title="Store"/>
+
+    <item android:id="@+id/nav_instagram"
+        android:icon="@drawable/ic_instagram_all_black_24dp"
+        android:title="Instagram"/>
+
+    <item android:id="@+id/nav_logo_detector"
+        android:icon="@drawable/ic_logo_detector_black_24dp"
+        android:title="Logo Detector"/>
+
+    <item android:id="@+id/nav_camera"
+        android:icon="@drawable/ic_photo_camera_black_24dp"
+        android:title="BFF"/>
+</menu>
